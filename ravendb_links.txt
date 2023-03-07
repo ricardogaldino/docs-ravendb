@@ -1,0 +1,17 @@
+RAVEN DB
+   - https://ravendb.net/
+
+GIT HUB
+   - https://github.com/ravendb
+   - https://github.com/ayende
+
+DOCKER
+   - https://hub.docker.com/r/ravendb/ravendb/
+   - https://ravendb.net/docs/article-page/5.4/csharp/start/installation/running-in-docker-container
+
+NUGET
+   - https://www.nuget.org/profiles/ravendb
+
+BOOTCAMP
+   - https://ravendb.net/learn/bootcamp
+   - https://github.com/ravendb/bootcamp/tree/4b7133ca58a5bc3588d2ee8659c48ac61a8440d6
